@@ -1,6 +1,5 @@
-## **Janak Singh Pujara**  
-Computer Engineering Student | Lifelong Learner
+> "Great things are done by a series of small things brought together."
 
-*"Small steps, big progress."*
-**Janak017/Janak017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+— Vincent van Gogh
 
+Hi, I'm Janak, a Computer Engineering student who loves learning and exploring technology.
